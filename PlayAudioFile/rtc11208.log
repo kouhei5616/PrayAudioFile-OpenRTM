@@ -1,0 +1,23 @@
+2021-07-13 18:47:34,881 file.manager INFO 1.2.2
+2021-07-13 18:47:34,881 file.manager INFO Copyright (C) 2003-2020, Noriaki Ando and OpenRTM development team,
+2021-07-13 18:47:34,881 file.manager INFO   Intelligent Systems Research Institute, AIST,
+2021-07-13 18:47:34,881 file.manager INFO Copyright (C) 2020, Noriaki Ando and OpenRTM development team,
+2021-07-13 18:47:34,881 file.manager INFO   Industrial Cyber-Physical Research Center, AIST,
+2021-07-13 18:47:34,881 file.manager INFO   All right reserved.
+2021-07-13 18:47:34,881 file.manager INFO Manager starting.
+2021-07-13 18:47:34,881 file.manager INFO Starting local logging.
+2021-07-13 18:47:34,897 file.manager.namingmanager INFO NameServer connection succeeded: corba/localhost
+2021-07-13 18:47:39,014 file.ManagerServant INFO Master manager not found
+2021-07-13 18:47:39,016 file.LocalServiceAdmin INFO All the local services are enabled.
+2021-07-13 18:47:39,018 file.manager INFO Component type conf file: PlayAudioFile.conf loaded.
+2021-07-13 18:47:39,019 file.ec_base INFO setRate(1000000.000000) done
+2021-07-13 18:47:39,019 file.ec_base INFO setRate(1000.000000) done
+2021-07-13 18:47:39,019 file.rtobject INFO 1 execution context was created.
+2021-07-13 18:47:39,020 file.rtobject INFO Initial active configuration set is default-set.
+2021-07-13 18:47:48,261 file.SdoServiceAdmin WARNING No available SDO service in the factory: 
+2021-07-13 18:47:48,261 file.SdoServiceAdmin ERROR type  already exists.
+2021-07-13 18:47:53,983 file.ManagerServant INFO Master manager not found
+2021-07-13 18:47:55,539 file.filename_input WARNING buffer empty
+2021-07-13 18:47:56,556 file.filename_input WARNING buffer empty
+2021-07-13 18:47:57,563 file.filename_input WARNING buffer empty
+2021-07-13 18:47:58,578 file.filename_input WARNING buffer empty

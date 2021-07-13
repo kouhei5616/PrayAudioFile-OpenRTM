@@ -1,0 +1,37 @@
+2021-07-13 18:43:05,451 file.manager INFO 1.2.2
+2021-07-13 18:43:05,451 file.manager INFO Copyright (C) 2003-2020, Noriaki Ando and OpenRTM development team,
+2021-07-13 18:43:05,451 file.manager INFO   Intelligent Systems Research Institute, AIST,
+2021-07-13 18:43:05,451 file.manager INFO Copyright (C) 2020, Noriaki Ando and OpenRTM development team,
+2021-07-13 18:43:05,451 file.manager INFO   Industrial Cyber-Physical Research Center, AIST,
+2021-07-13 18:43:05,451 file.manager INFO   All right reserved.
+2021-07-13 18:43:05,451 file.manager INFO Manager starting.
+2021-07-13 18:43:05,451 file.manager INFO Starting local logging.
+2021-07-13 18:43:05,457 file.manager.namingmanager INFO NameServer connection succeeded: corba/localhost
+2021-07-13 18:43:09,617 file.ManagerServant INFO Master manager not found
+2021-07-13 18:43:09,620 file.LocalServiceAdmin INFO All the local services are enabled.
+2021-07-13 18:43:09,624 file.manager INFO Component type conf file: PlayAudioFile.conf loaded.
+2021-07-13 18:43:09,626 file.ec_base INFO setRate(1000000.000000) done
+2021-07-13 18:43:09,627 file.ec_base INFO setRate(1000.000000) done
+2021-07-13 18:43:09,627 file.rtobject INFO 1 execution context was created.
+2021-07-13 18:43:09,629 file.rtobject INFO Initial active configuration set is default-set.
+2021-07-13 18:43:24,588 file.ManagerServant INFO Master manager not found
+2021-07-13 18:43:24,998 file.SdoServiceAdmin WARNING No available SDO service in the factory: 
+2021-07-13 18:43:24,998 file.SdoServiceAdmin ERROR type  already exists.
+2021-07-13 18:43:33,611 file.rtobject ERROR Traceback (most recent call last):
+  File "C:\Users\kouhe\AppData\Local\Programs\Python\Python38\lib\site-packages\OpenRTM_aist\RTObject.py", line 1571, in on_execute
+    ret = self.onExecute(ec_id)
+  File "C:\workspace\PlayAudioFile\PlayAudioFile.py", line 186, in onExecute
+    if self._angle_inputIn.isNew() is True:
+AttributeError: 'PlayAudioFile' object has no attribute '_angle_inputIn'
+
+2021-07-13 18:43:39,589 file.ManagerServant INFO Master manager not found
+2021-07-13 18:43:54,568 file.ManagerServant INFO Master manager not found
+2021-07-13 18:44:09,491 file.ManagerServant INFO Master manager not found
+2021-07-13 18:44:24,384 file.ManagerServant INFO Master manager not found
+2021-07-13 18:44:39,327 file.ManagerServant INFO Master manager not found
+2021-07-13 18:44:54,291 file.ManagerServant INFO Master manager not found
+2021-07-13 18:45:09,285 file.ManagerServant INFO Master manager not found
+2021-07-13 18:45:24,253 file.ManagerServant INFO Master manager not found
+2021-07-13 18:45:39,200 file.ManagerServant INFO Master manager not found
+2021-07-13 18:45:54,186 file.ManagerServant INFO Master manager not found
+2021-07-13 18:46:09,178 file.ManagerServant INFO Master manager not found

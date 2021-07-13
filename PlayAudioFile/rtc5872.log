@@ -1,0 +1,29 @@
+2021-07-13 18:46:17,377 file.manager INFO 1.2.2
+2021-07-13 18:46:17,377 file.manager INFO Copyright (C) 2003-2020, Noriaki Ando and OpenRTM development team,
+2021-07-13 18:46:17,377 file.manager INFO   Intelligent Systems Research Institute, AIST,
+2021-07-13 18:46:17,377 file.manager INFO Copyright (C) 2020, Noriaki Ando and OpenRTM development team,
+2021-07-13 18:46:17,377 file.manager INFO   Industrial Cyber-Physical Research Center, AIST,
+2021-07-13 18:46:17,377 file.manager INFO   All right reserved.
+2021-07-13 18:46:17,377 file.manager INFO Manager starting.
+2021-07-13 18:46:17,377 file.manager INFO Starting local logging.
+2021-07-13 18:46:17,394 file.manager.namingmanager INFO NameServer connection succeeded: corba/localhost
+2021-07-13 18:46:21,545 file.ManagerServant INFO Master manager not found
+2021-07-13 18:46:21,548 file.LocalServiceAdmin INFO All the local services are enabled.
+2021-07-13 18:46:21,556 file.manager INFO Component type conf file: PlayAudioFile.conf loaded.
+2021-07-13 18:46:21,561 file.ec_base INFO setRate(1000000.000000) done
+2021-07-13 18:46:21,561 file.ec_base INFO setRate(1000.000000) done
+2021-07-13 18:46:21,563 file.rtobject INFO 1 execution context was created.
+2021-07-13 18:46:21,566 file.rtobject INFO Initial active configuration set is default-set.
+2021-07-13 18:46:36,465 file.ManagerServant INFO Master manager not found
+2021-07-13 18:46:48,925 file.SdoServiceAdmin WARNING No available SDO service in the factory: 
+2021-07-13 18:46:48,926 file.SdoServiceAdmin ERROR type  already exists.
+2021-07-13 18:46:51,434 file.ManagerServant INFO Master manager not found
+2021-07-13 18:46:57,311 file.rtobject ERROR Traceback (most recent call last):
+  File "C:\Users\kouhe\AppData\Local\Programs\Python\Python38\lib\site-packages\OpenRTM_aist\RTObject.py", line 1571, in on_execute
+    ret = self.onExecute(ec_id)
+  File "C:\workspace\PlayAudioFile\PlayAudioFile.py", line 186, in onExecute
+    if self._angle_inputIn.isNew() is True:
+AttributeError: 'PlayAudioFile' object has no attribute '_angle_inputIn'
+
+2021-07-13 18:47:06,370 file.ManagerServant INFO Master manager not found
+2021-07-13 18:47:21,335 file.ManagerServant INFO Master manager not found

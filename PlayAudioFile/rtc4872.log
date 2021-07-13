@@ -1,0 +1,22 @@
+2021-07-13 18:38:38,763 file.manager INFO 1.2.2
+2021-07-13 18:38:38,764 file.manager INFO Copyright (C) 2003-2020, Noriaki Ando and OpenRTM development team,
+2021-07-13 18:38:38,764 file.manager INFO   Intelligent Systems Research Institute, AIST,
+2021-07-13 18:38:38,764 file.manager INFO Copyright (C) 2020, Noriaki Ando and OpenRTM development team,
+2021-07-13 18:38:38,764 file.manager INFO   Industrial Cyber-Physical Research Center, AIST,
+2021-07-13 18:38:38,764 file.manager INFO   All right reserved.
+2021-07-13 18:38:38,764 file.manager INFO Manager starting.
+2021-07-13 18:38:38,764 file.manager INFO Starting local logging.
+2021-07-13 18:38:38,770 file.manager.namingmanager INFO NameServer connection succeeded: corba/localhost
+2021-07-13 18:38:42,950 file.ManagerServant INFO Master manager not found
+2021-07-13 18:38:42,952 file.LocalServiceAdmin INFO All the local services are enabled.
+2021-07-13 18:38:42,954 file.manager INFO Component type conf file: PlayAudioFile.conf loaded.
+2021-07-13 18:38:42,955 file.ec_base INFO setRate(1000000.000000) done
+2021-07-13 18:38:42,955 file.ec_base INFO setRate(1000.000000) done
+2021-07-13 18:38:42,955 file.rtobject INFO 1 execution context was created.
+2021-07-13 18:38:42,956 file.rtobject INFO Initial active configuration set is default-set.
+2021-07-13 18:38:57,852 file.ManagerServant INFO Master manager not found
+2021-07-13 18:39:12,873 file.ManagerServant INFO Master manager not found
+2021-07-13 18:39:27,884 file.ManagerServant INFO Master manager not found
+2021-07-13 18:39:42,865 file.ManagerServant INFO Master manager not found
+2021-07-13 18:39:57,827 file.ManagerServant INFO Master manager not found
+2021-07-13 18:40:12,814 file.ManagerServant INFO Master manager not found
