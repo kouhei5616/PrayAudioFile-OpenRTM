@@ -2,7 +2,7 @@
 
 ## 概要<br>
 オーディオファイルを再生するOpenRTMコンポーネントです。<br>
-pythonのwaveモジュールを使用しています。（既にファイルの中に組み込まれています）<br>
+pythonのplaysoundモジュールを使用しています。（既にファイルの中に組み込まれています）<br>
 
 ## 必要なもの<br>
 ・Linux/Windows/MacOS搭載のPC<br>
@@ -10,9 +10,11 @@ pythonのwaveモジュールを使用しています。（既にファイルの�
 ・スピーカー<br>
 
 ## 使い方<br>
-１．PrayAudioFile.pyを起動する。<br>
+１．使用するオーディオファイルをsoundフォルダに入れる。<br>
 
-２．OpenRTMでパラメータの設定・接続・アクティブ化する。<br>
+２．PrayAudioFile.pyを起動する。<br>
+
+３．OpenRTMでパラメータの設定・接続・アクティブ化する。<br>
 
 ## コンポーネントの説明<br>
 ・PlayAudioFile<br>
